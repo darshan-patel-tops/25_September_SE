@@ -1,23 +1,26 @@
 darshan patel is inviting you to a scheduled Zoom meeting.
 
-Topic: 19_Jun_SE
-Time: Jun 21, 2023 10:30 AM India
+Topic: darshan patel's Personal Meeting Room
 
 Join Zoom Meeting
-https://us05web.zoom.us/j/89359846385?pwd=ZkhWOEZxR3R4YktUN3RMZkxrUlh5UT09
+https://us05web.zoom.us/j/7632297551?pwd=bUhzMHM0L1BpUjQxYmM4UVVPSUZCZz09
 
-Meeting ID: 893 5984 6385
+Meeting ID: 763 229 7551
 Passcode: tops
 
 
-Daily 10:30-11:30 PM
+
+Daily 07:00-08:00 AM
 
 
 Drive Link:
-https://drive.google.com/drive/folders/1R0Wb83PZiXQTfvsZfTKnj1s7Tlx8GpAP?usp=sharing
+https://drive.google.com/drive/folders/19hOi2VmCkSUYJbifAlwM1v562gZd8_0g?usp=sharing
 
 GitHub Link:
-https://github.com/darshan-patel-tops/19_jun_SE
+https://github.com/darshan-patel-tops/25_September_SE
 
 Dev c++
 https://sourceforge.net/projects/embarcadero-devcpp/
+
+Xampp
+https://www.apachefriends.org/
