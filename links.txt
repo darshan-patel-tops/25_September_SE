@@ -24,3 +24,9 @@ https://sourceforge.net/projects/embarcadero-devcpp/
 
 Xampp
 https://www.apachefriends.org/
+
+GitBash
+https://git-scm.com/download/win
+
+Draw IO
+https://app.diagrams.net/
