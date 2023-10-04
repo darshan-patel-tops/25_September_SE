@@ -27,7 +27,8 @@ main()
 	{
 		printf("Apsara ke marks nai milte");
 	}
-	}
+}
+	
 	else
 	{
 		printf("Invalid marks");
