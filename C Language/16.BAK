@@ -1,0 +1,39 @@
+#include<stdio.h>
+#include<conio.h>
+
+
+void main()
+{
+
+	int number;
+	printf("Enter Your Choice \n");
+	scanf("%d",&number);
+
+
+	/*
+	switch(condition)
+	{
+		case :
+		statement
+		break;
+
+		default :
+		statement
+		break;
+	}
+
+
+	*/
+
+	switch(number)
+	{
+		case 1:
+		printf("You Choose 1");
+	}
+
+
+
+
+
+
+}
